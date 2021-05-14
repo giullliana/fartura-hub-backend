@@ -1,7 +1,7 @@
 # FarturaHub
 
 ### :beginner: Link alternativo para o repositório front-end: https://github.com/giullliana/fartura-hub-frontend
-
+### :information_source: Link do site: https://farturahub.herokuapp.com/#/sobre-nos
 
 ### História
 
